@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>41495.jpg</filename>
+	<path>C:\Users\andre\Desktop\Universidad\Proyecto de grado\Dataset2\images\41495.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>con_mascara</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>35</ymin>
+			<xmax>743</xmax>
+			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+</annotation>
